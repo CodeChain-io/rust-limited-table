@@ -2,6 +2,12 @@
 name = "limited-table"
 version = "0.1.0"
 authors = ["CodeChain Team <codechain@kodebox.io>"]
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+repository = "http://github.com/CodeChain-io/rust-limited-table"
+keywords = ["preallocated", "table", "hashmap", "map"]
+description = "A preallocated table with the limited size"
 
 [dependencies]
 slab = "0.4"

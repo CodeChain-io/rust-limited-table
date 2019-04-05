@@ -1,3 +1,3 @@
-# limited-table [![Build Status](https://travis-ci.org/CodeChain-io/rust-limited-table.svg?branch=master)](https://travis-ci.org/CodeChain-io/rust-limited-table) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# limited-table [![Build Status](https://travis-ci.org/CodeChain-io/rust-limited-table.svg?branch=master)](https://travis-ci.org/CodeChain-io/rust-limited-table) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is a preallocated table with limited size.
+This is a preallocated table with the limited size.
